@@ -8,7 +8,9 @@ This is not a website of my own. All credits to [Bedimcode](https://www.youtube.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
+Check the [Live Demo](https://facundo-martin.github.io/responsive-plants-store/)
+
 ![plants website](/preview.png)
 
 
-Check the [Live Demo](https://facundo-martin.github.io/responsive-plants-store/)
+
